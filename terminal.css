@@ -1,0 +1,4 @@
+.panel.integrated-terminal,
+.panel.integrated-terminal *{
+  background: transparent !important;
+}
