@@ -1,0 +1,7 @@
+.panel-header {
+    background-color: rgb(36, 27, 47, 0) !important;
+}
+
+.monaco-list .monaco-list-row.monaco-list-row:hover:not(.selected):not(.focused){
+    background-color: rgba(52, 41, 79, 0.3) !important;
+}
