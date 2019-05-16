@@ -48,8 +48,10 @@ transparent vscode css
 成品效果如图，不懂的可以加小助手微信 udujjb 拉你进群询问
 ![](https://upload-images.jianshu.io/upload_images/854231-203ae82f1544bf0f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-以上教程是基于 MacOS 的，Linux 用户如何开启透明请参考，Windows 的electron暂不支持vibrancy模式。
+以上教程是基于 MacOS 的，Linux 用户如何开启透明请参考；Windows 的electron暂不支持vibrancy模式，可以使用插件 [GlassIt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) 设置透明。
+
 [Custom CSS and JS Loader 配置](https://github.com/be5invis/vscode-custom-css#getting-started)
+
 [Linux 透明窗口](https://github.com/sergei-dyshel/vscode/blob/master/README.fork.md)
 
 
