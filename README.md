@@ -36,6 +36,14 @@ transparent vscode css
 使 vscode 内置的终端透明
 ![](http://upload-images.jianshu.io/upload_images/854231-4e961151a1a22352?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+终端光标颜色修改，由[@manonloki](www.manonloki.com) 提供
+```
+.panel.integrated-terminal .xterm-cursor,
+.xterm-cursor-block {
+  background: rgb(210, 0, 252) !important;
+}
+```
+
 # 4 修改 VSCode 配置文件
 ![](https://upload-images.jianshu.io/upload_images/854231-fbd4da9e499e6c4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 点击上图 `在 setting.json 中编辑`，打开后加入配置(**不需要大括号**，直接把 key-value 加入原有 json 即可)：
