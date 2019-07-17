@@ -4,6 +4,7 @@ transparent vscode css
 > 原文链接 [https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode](https://jinkey.ai/post/tech/ru-he-pei-zhi-tou-ming-fa-guang-de-sao-qi-vscode)
 转载请注明出处
 
+> 交流QQ群 706964206
 
 # 1 安装自定义 JS 和 CSS 插件
 ![插件截图](https://upload-images.jianshu.io/upload_images/854231-b2e5e95d9c7571a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
